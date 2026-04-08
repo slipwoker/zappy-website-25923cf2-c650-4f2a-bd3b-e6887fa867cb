@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Lior Design is a boutique brand design studio turning bold ideas into unforgettable visual identities. Explore our work and see what great design can do for your brand.
+
+### Services
+https://example.com/services
+From logo creation to full brand systems, our creative graphic design agency offers tailored services that make your business look as powerful as it truly is. Let&#39;s build something remarkable.
+
+### About
+https://example.com/about
+Meet the passionate designer behind Lior Design — a brand design studio rooted in strategy, aesthetics, and storytelling. Discover the vision and values that shape every project we touch.
+
+### Contact
+https://example.com/contact
+Ready to invest in design that drives real results? Reach out to Lior Design, your dedicated branding and design studio, and let&#39;s turn your vision into a stunning visual reality. Get in touch now.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
